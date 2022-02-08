@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2021/02/cakephp.png" width="300" height="100">
+<img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2021/02/cakephp.png" width="300" height="150">
 
 # CakePHP Application Skeleton
 
